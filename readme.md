@@ -3,25 +3,25 @@ This repo contains the code for streaming the camera (or Laptop webcam) data ove
 
 
 ## Requiremets
-	Make sure you have [OpenCV](https://opencv.org/get-started/) installed.
-	Make sure you have [g++](https://linuxhint.com/install-and-use-g-on-ubuntu/) installed. 
-	Make Sure you have [cmake](https://cgold.readthedocs.io/en/latest/first-step/installation.html) installed on your machine.
+Make sure you have [OpenCV](https://opencv.org/get-started/) installed.
+Make sure you have [g++](https://linuxhint.com/install-and-use-g-on-ubuntu/) installed. 
+Make Sure you have [cmake](https://cgold.readthedocs.io/en/latest/first-step/installation.html) installed on your machine.
 	
 	
 ## Steps to create the executables
-	* Download the repository.
-	* Build the executables in `bin` folder by running following commands:
-		`cd Live_Video_Streamimg/build`
-		`cmake ..`
-		`make`
+* Download the repository.
+* Build the executables in `bin` folder by running following commands:
+`cd Live_Video_Streamimg/build`
+`cmake ..`
+`make`
 
 
 
 ## Running the executables
-	* To execute the server, run the executable with following command:
-		`cd Live_Video_Streamimg/bin`
-		`./broadcast_images`
+* To execute the server, run the executable with following command:
+`cd Live_Video_Streamimg/bin`
+`./broadcast_images`
 		
-	* To execute the client, run the executable with following command:
-		`cd Live_Video_Streamimg/bin`
-		`./receiver`
+* To execute the client, run the executable with following command:
+`cd Live_Video_Streamimg/bin`
+`./receiver`
