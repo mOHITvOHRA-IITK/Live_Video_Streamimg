@@ -3,9 +3,9 @@ This repo contains the code for streaming the camera (or Laptop webcam) data ove
 
 
 ## Requiremets
-Make sure you have [OpenCV](https://opencv.org/get-started/) installed.
-Make sure you have [g++](https://linuxhint.com/install-and-use-g-on-ubuntu/) installed. 
-Make Sure you have [cmake](https://cgold.readthedocs.io/en/latest/first-step/installation.html) installed on your machine.
+	Make sure you have [OpenCV](https://opencv.org/get-started/) installed.
+	Make sure you have [g++](https://linuxhint.com/install-and-use-g-on-ubuntu/) installed. 
+	Make Sure you have [cmake](https://cgold.readthedocs.io/en/latest/first-step/installation.html) installed on your machine.
 	
 	
 ## Steps to create the executables
